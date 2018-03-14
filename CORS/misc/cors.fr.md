@@ -207,7 +207,7 @@ The `Access-Control-Allow-Headers` :  est utilisé en réponse à une preflight 
             Access-Control-Allow-Headers: X-Custom-Header
 
 
-## Behaviour
+## Comportement
 
 - Il est possible d'utiliser plusieurs CORS sur le même backend. Pour cela il suffit d'indiquer dans le CORS setting les 'origins' séparées par une virgule :
 
